@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>loggingExample</name>
+			<type>2</type>
+			<location>F:/Doc.file/Capgemini/Training/Week 3/Learnings/src/loggingExample</location>
+		</link>
+	</linkedResources>
 </projectDescription>
